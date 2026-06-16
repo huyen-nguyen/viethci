@@ -6,21 +6,28 @@ A directory of Vietnamese researchers and practitioners in Human–Computer Inte
 
 ## Researchers & practitioners
 
+### Tran Van Cuong (Trần Văn Cường)
+- PhD Fellow, University of Copenhagen, Denmark
+- Interests: Methods and theories in HCI, metascience, AI, social media, well-being, education, psychology
+- [Scholar](https://scholar.google.com/citations?hl=en&user=KziOe48AAAAJ) · [ORCID](https://orcid.org/0000-0001-5766-5802) · [GitHub](https://github.com/trancuongk17) · [LinkedIn](https://www.linkedin.com/in/tran-van-cuong-a19108152/)
+
 ### Khanh-Duy Le (Lê Khánh Duy)
-- Lecturer, VNUHCM University of Science · leads the HCI division at SELab
+- Lecturer, VNUHCM University of Science, Vietnam
+- Leads the HCI division at SELab
 - Co-chairs of HCMC ACM SIGCHI Chapter
 - Interests: HCI, mixed reality, interactive displays, mobile interaction, gestural interaction
 - [Web](https://duylekhanh.wixsite.com/mysite) · [Scholar](https://scholar.google.com/citations?user=jSOYfjYAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/duy-k-le/) · [ACM](https://dl.acm.org/profile/99659081515)
 
 ### Chi Thanh Vi (Vi Chí Thành)
-- Lecturer, International University, VNU-HCMC
+- Lecturer, International University (VNU-HCMC), Vietnam
 - CEO/CSO, Brain-Life Link Technology JSC
 - Co-chairs of HCMC ACM SIGCHI Chapter
 - Interests: HCI, brain-computer interfaces, multisensory experiences, experimental psychology
 - [Web](https://vichithanh.github.io/) · [Scholar](https://scholar.google.co.uk/citations?user=CnWxmt8AAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-1686-5549) · [LinkedIn](https://www.linkedin.com/in/chi-thanh-vi-a89a9b23) · [X](https://twitter.com/light8x)
 
 ### Thinh Nguyen-Truong (Nguyễn Trường Thịnh)
-- MPhil student, HKUST · DataVisard lab
+- MPhil student, HKUST, Hong Kong
+- DataVisard lab
 - Interests: data visualization, human-AI interaction, HCI
 - [Web](https://thinhnguyentruong.com/) · [GitHub](https://github.com/truongthinhnguyen03) · [ORCID](https://orcid.org/0009-0006-5441-7057) · [LinkedIn](https://www.linkedin.com/in/truongthinh-nguyen/) · [X](https://x.com/truongthinh_03)
 
@@ -32,7 +39,7 @@ Example:
 
 ```markdown
 ### Your Name (Tên Của Bạn)
-- Role, Institution
+- Role, Institution, Country
 - Interests: tag1, tag2, tag3
 - [Web](…) · [Scholar](…) · [ORCID](…) · [GitHub](…) · [LinkedIn](…)
 ```
